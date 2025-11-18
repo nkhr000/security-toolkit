@@ -1,0 +1,15 @@
+# Python
+*.python-version
+*__pycache__*
+*dist/*
+*.tar.gz
+*.egg-info*
+
+# MacOS
+*.DS_Store
+
+# Private
+.zshrc.local
+.gitconfig.local
+*.key
+*.pem
